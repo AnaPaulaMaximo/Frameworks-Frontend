@@ -24,5 +24,8 @@ Abaixo está a tabela de índice rápido para acessar os projetos de cada aula. 
 | **Aula 04** | Projetos utilizando APIs | Atividade 1 | [🔗 GitHub](https://github.com/AnaPaulaMaximo/Atividade-01.git) |
 | **Aula 04** | Projetos utilizando APIs | Atividade 2 | [🔗 Front](https://github.com/AnaPaulaMaximo/atividade2_front.git) <br>[🔗 Back](https://github.com/AnaPaulaMaximo/api_express_atividade2.git)|
 | **Aula 05** | Criando uma API | Projeto notas | [🔗 GitHub Front](https://github.com/AnaPaulaMaximo/frontend_projeto_notas.git) <br>[🔗  GitHub Back](https://github.com/AnaPaulaMaximo/backend_projeto_notas.git) <br> [🔗 Vercel](https://frontend-projeto-notas.vercel.app/) <br>[🔗 Render](https://backend-projeto-notas.onrender.com)|
+| **Aula 06** | Organizando Kanban PI | Atividade 1 | [🔗 README](###) |
+| **Aula 07** | Hackathon | Atividade Avaliativa (faltei) | - |
+| **Aula 08** | Aprendendo React | Atividade  | [🔗  GitHub](https://github.com/AnaPaulaMaximo/atividade-react-aula-8.git) <br> [🔗 Vercel](https://atividade-react-zeta.vercel.app/) |
 ---
 
